@@ -1,4 +1,4 @@
-#lizethGiraldo 0(
+
 Angélica Rodriguez
 -Lizeth Giraldo
 -Hendry Guzman
