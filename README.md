@@ -3,3 +3,4 @@ Angélica Rodriguez
 -Hendry Guzman
 -Ximena Alcaman
 -Faryd Peñuela
+-Daniel Rodriguez
